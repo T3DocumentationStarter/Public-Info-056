@@ -13,6 +13,8 @@
 
 .. The following, first section (= headline) is the 'Document Title'.
 
+.. _draft-general-things:
+
 
 ========================================
 Drafts and Ideas for TYPO3 documentation
