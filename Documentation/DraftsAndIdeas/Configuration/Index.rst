@@ -1,6 +1,15 @@
 .. include:: ../../Includes.txt
 
 
+
+
+.. _config-overview:
+
+=============================
+DRAFT: Configuration Overview
+=============================
+
+
 .. important::
    This is a draft. It will not be indexed by search engines. The
    goal is to give an overview of existing documentation on one
@@ -11,17 +20,15 @@
 
 todo:
 
-* configure backend users and groups
+* user settings configuration: https://docs.typo3.org/typo3cms/CoreApiReference/latest/ApiOverview/UserSettingsConfiguration/Index.html
+* configure backend users and groups (see getting started)
+* configure languages (backend and frontend, see "Getting Started" and "Editor's Tutorial")
 * special section for rte_ckeditor, form and sites
 * add link to explanation of difference between admin and system maintainer
   in introduction
+* seperated: configure in backend / in extension, etc.   
 
 
-.. _config-overview:
-
-=============================
-DRAFT: Configuration Overview
-=============================
 
 This chapter will give you an overview of various configuration
 methods in TYPO3. For more detail, follow the respective link under
