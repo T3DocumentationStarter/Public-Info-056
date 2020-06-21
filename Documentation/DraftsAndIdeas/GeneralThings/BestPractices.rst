@@ -205,13 +205,13 @@ My Answer:
    documentation. So this is not an answer,
    this is another question. Why do people document things on blogs and not on
    docs.typo3.org? Why do they write great answers on StackOverflow, but rarely
-   make the changes on docs.typo3.org? Why is the quality of the blogs and of
-   StackOverflow often much higher than on docs.typo3.org?
-
-   Let's ask these questions and be honest about it.
+   make the changes on docs.typo3.org? Why is the quality of the blogs sometimes
+   higher than on docs.typo3.org?
 
    We could draw the conclusion, ok, not everything must be documented on docs.typo3.org,
-   it's ok to have the blogs. But they cannot be maintained by the community.
+   it's ok to have the blogs. But they cannot be maintained by the community. Also,
+   a blog article will rarely get updated. Or supplied for multiple TYPO3 versions.
+   
    You usually can't see for which version the information applies.
    Beginners don't know where to read. They do not know what to trust. Where to
    start. They often come to docs.typo3.org when they begin. 
@@ -224,9 +224,7 @@ Question:
    Should documentation be kept extra or in TYPO3 core code repository?
    We currently have both: changelog + sysext doc in core, everything
    else separate (see :ref:`h2document:overview-of-types`.
-   Currently, even the system extensions do not do it
-   consistently, e.g. ext:form and ext:rte_ckeditor in core, ext:seo, ext:sites in
-   "TYPO3 Explained".
+   
 
 My Answer:
    First of all, I think, having various repositories and workflows is confusing.
